@@ -5,7 +5,7 @@ Aplikasi Manajemen Keuangan adalah sistem berbasis Windows Forms (WinForms) yang
 
 ## Fitur
 - Tambah Data: Menambahkan catatan pemasukan atau pengeluaran.
- -Edit Data: Mengedit catatan yang sudah ada.
+- Edit Data: Mengedit catatan yang sudah ada.
 - Hapus Data: Menghapus catatan yang tidak diperlukan.
 - Tampilkan Data: Menampilkan daftar pemasukan dan pengeluaran dalam tabel.
 - Kategori Pemasukan: Gaji, Bonus, Lainnya.
