@@ -22,4 +22,7 @@ Aplikasi Manajemen Keuangan adalah sistem berbasis Windows Forms (WinForms) yang
 - Pilih baris data dalam tabel dan klik Hapus untuk menghapus catatan.
 - Klik Perbarui setelah mengedit data agar perubahan tersimpan.
 - Pada bagian jumlah dan deskripsi akan dikosongkan secara otomatis setelah data disimpan.
-![Manajemen Keuangan](https://github.com/user-attachments/assets/d9ad1398-7a4a-4f1f-8a36-02830fa7d43c)
+
+# Desain Mockup
+![Desain MK](https://github.com/user-attachments/assets/d0e6160b-ffc0-462d-b581-8cd2231ec7a5)
+![Manajemen Keuangan](https://github.com/user-attachments/assets/9d7441d8-0b37-4244-8dbb-9e1e2c54f036)
