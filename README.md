@@ -16,9 +16,11 @@ Aplikasi Manajemen Keuangan adalah sistem berbasis Windows Forms (WinForms) yang
   - Pemperbarui data: Menyimpan data yang telah diedit
   - Hapus Data: menghapus catatan yang tidak diperlukan.
   - Laporan: menampilkan semua data inputan.
+  - Search : Fitur ini digunakan untuk melakukan pencarian data berdasarkan kategori untuk memudahkan pengguna dalam melihat, mengedit ataupun menghapusnya.
 3. Laporan Transaksi
   - Menampilkan data yang telah di inputkan oleh pengguna.
   - Menampilkan jumlah pemasukan, pengeluaran dan sisa uang yang diperoleh dari pemasukan dikurangi pengeluaran.
+  - Dapat melakukan pencarian data berdasarkan kategori yang dimasukan oleh pengguna
  
 ## Penggunaan
 - Masukan nama lengkap dan username untuk mengakses halaman utama.
@@ -26,11 +28,12 @@ Aplikasi Manajemen Keuangan adalah sistem berbasis Windows Forms (WinForms) yang
 - Pilih kategori yang sesuai.
 - Masukkan jumlah dan deskripsi transaksi.
 - Klik Simpan untuk menyimpan data yang telah di inputkan.
+- Pada bagian jumlah dan deskripsi akan dikosongkan secara otomatis setelah data disimpan.
 - Pilih baris data dalam tabel dan klik Edit untuk memperbarui informasi.
 - Pilih baris data dalam tabel dan klik Hapus untuk menghapus catatan.
 - Klik Perbarui setelah mengedit data agar perubahan tersimpan.
 - Klik Laporan untuk menampilkan hasil inputan dan perhitungan pemasukan dan pengeluaran.
-- Pada bagian jumlah dan deskripsi akan dikosongkan secara otomatis setelah data disimpan.
+- Klik Search untuk melakukan pencarian data berdasarkan kategori ataupun deskripsinya.
 
 ## Teknologi yang Digunakan
 - Bahasa Pemrograman: `C#`
@@ -43,9 +46,7 @@ Aplikasi Manajemen Keuangan adalah sistem berbasis Windows Forms (WinForms) yang
 - **Form2** – Form Input Transaksi
 - **Form3** – Form Laporan Transaksi
 
-
-# Desain Mockup
+# Mockup
 ![Form1](https://github.com/user-attachments/assets/8a4d7618-da3a-48f8-ac3a-d7a510e6a120)
-![Form2](https://github.com/user-attachments/assets/74aed8c6-6661-4824-8763-0dbf145d0400)
-![Form3](https://github.com/user-attachments/assets/0e0c45dd-6dae-40aa-bada-3b44c19ef0f9)
-
+![Form3](https://github.com/user-attachments/assets/1f6a36c7-ff9b-430c-a230-b71ec160abc0)
+![Form2](https://github.com/user-attachments/assets/42497556-dfc7-4565-9eb3-067f32a319ab)
